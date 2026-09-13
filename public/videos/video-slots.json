@@ -1,6 +1,0 @@
-{
-  "landscape": ["hero.mp4","editor.mp4","webinar.mp4","podcast.mp4","founder.mp4","review.mp4","register.mp4","login.mp4","forgot-password.mp4","verify.mp4"],
-  "portrait": ["product.mp4","quality.mp4","tool.mp4","auth-card.mp4"],
-  "square": ["social-preview.mp4"],
-  "format": "MP4 H.264, yuv420p, faststart"
-}
