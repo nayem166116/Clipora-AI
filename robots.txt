@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://crimvid.com/sitemap.xml
