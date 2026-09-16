@@ -1,0 +1,60 @@
+{
+  "name": "CrimVid",
+  "url": "https://crimvid.com",
+  "description": "AI video editing and repurposing software for creators and businesses.",
+  "legalOperator": {
+    "name": "VUDARO, LLC",
+    "companyNumber": "LC014735088",
+    "companyType": "Limited Liability Company",
+    "status": "Active",
+    "jurisdiction": "Missouri, United States"
+  },
+  "foundedDate": "2024-05-13",
+  "headquarters": {
+    "street": "1510 Castle Hill Ave, #1119",
+    "city": "Bronx",
+    "region": "NY",
+    "postalCode": "10462-4399",
+    "country": "USA"
+  },
+  "registeredAddress": {
+    "street": "4607 Shrewsbury Ave, Suite B",
+    "city": "Saint Louis",
+    "region": "MO",
+    "postalCode": "63119-2817",
+    "country": "USA"
+  },
+  "contactEmail": "support@crimvid.com",
+  "industries": [
+    "Artificial Intelligence",
+    "Generative AI",
+    "SaaS",
+    "Software",
+    "Video Editing"
+  ],
+  "lastReviewed": "2026-09-16",
+  "alternateName": "CrimVid AI",
+  "founder": {
+    "name": "Robert Kleiman",
+    "status": "company-reported"
+  },
+  "telephone": "+1-438-619-6608",
+  "employeeRange": {
+    "minimum": 1,
+    "maximum": 10,
+    "status": "company-reported"
+  },
+  "funding": {
+    "stage": "Pre-Seed",
+    "roundCount": 1,
+    "status": "company-reported",
+    "leadInvestor": "Liquid 2 Ventures",
+    "investors": [
+      "Liquid 2 Ventures",
+      "Zeev Ventures",
+      "Cardumen Capital"
+    ]
+  },
+  "verificationUrl": "https://crimvid.com/company",
+  "verificationStatus": "company-reported first-party information"
+}
