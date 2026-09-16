@@ -1,0 +1,13 @@
+{
+  "mode": "direct 3D images",
+  "videoElements": 0,
+  "assets": {
+    "editor": "/public/3d-tools/editor.jpg",
+    "transcript": "/public/3d-tools/transcript.jpg",
+    "reframe": "/public/3d-tools/reframe.jpg",
+    "review": "/public/3d-tools/review.jpg",
+    "hook": "/public/3d-tools/hook.jpg",
+    "export": "/public/3d-tools/export.jpg",
+    "auth": "/public/3d-tools/auth.jpg"
+  }
+}
